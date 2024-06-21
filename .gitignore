@@ -1,0 +1,6 @@
+logger_print.log
+logger_print/__pycache__/**
+logger_print.egg-info/**
+build
+dist
+
